@@ -368,7 +368,7 @@ screen main_menu():
         vbox:
             style "main_menu_vbox"
 
-            text "Rowan's Trial":
+            text "The Trial of Rowan Reed":
                 style "main_menu_title"
 
             text "[config.version]":
@@ -556,7 +556,7 @@ screen about():
 
         vbox:
 
-            label "Rowan's Trial - Cortex Chronicles - Chapter 1"
+            label "The Trial of Rowan Reed - Cortex Chronicles - Chapter 1"
             text _("Version [config.version!t]\n")
 
             ## gui.about is usually set in options.rpy.

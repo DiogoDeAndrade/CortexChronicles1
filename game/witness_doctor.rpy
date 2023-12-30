@@ -17,7 +17,7 @@ label witness_doctor:
     show bailiff at right
     with dissolve
 
-    bailiff "You swear by the Prime Nexus to tell the truth, the whole truth, and nothing but the truth?"
+    bailiff "You swear by the Cortex and the Prime Nexus to tell the truth, the whole truth, and nothing but the truth?"
 
     doctor "Of course!"
 

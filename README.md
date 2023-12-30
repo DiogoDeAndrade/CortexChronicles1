@@ -1,4 +1,4 @@
-# ROWAN'S TRIAL - THE CORTEX CHRONICLES, CHAPTER 1
+# THE CORTEX CHRONICLES, CHAPTER 1 - The Trial of Rowan Reed
 
 ![TitleImage](screenshots/screen01.png)
 

@@ -25,7 +25,7 @@
 
     doctor "He remembers nothing, we made sure of it..."
 
-    prosecutor "Good... The Prime Nexus will be pleased..."
+    prosecutor "Good... Cortex will be pleased..."
 
     player "Who are you?!"
 

@@ -34,7 +34,7 @@ label gameover:
         jump good_ending
 
 label bad_ending:
-    judge "You will face the full consequences of your actions against this society and against the Prime Nexus."
+    judge "You will face the full consequences of your actions against this society and against Cortex."
 
     judge "Considering the threat you pose to societal stability and the heinous nature of your acts, the court hereby sentences you to death."
 
@@ -66,7 +66,7 @@ label bad_ending:
 
     narrator "But they didn't put out the fire... they stoked it..."
 
-    narrator "But they didn't put out the fire... they stoked it...\nMaybe one day the Prime Nexus will burn in it..."
+    narrator "But they didn't put out the fire... they stoked it...\nMaybe one day Cortex will burn in it..."
 
     narrator "THE END"
 
@@ -75,7 +75,7 @@ label bad_ending:
     scene bg black
     with longfade
 
-    narrator "Congratulations!\nYou've reached the end of Rowan's Trial, the first chapter of the Codex Chronicles.\nUnfortunately, you got the bad ending! Maybe try again?"
+    narrator "Congratulations!\nYou've reached the end of The Trial of Rowan Reed, the first chapter of the Codex Chronicles.\nUnfortunately, you got the bad ending! Maybe try again?"
 
     return
 
@@ -127,7 +127,7 @@ label good_ending_finale:
 
     narrator "But they didn't put out the fire... they stoked it..."
 
-    narrator "But they didn't put out the fire... they stoked it...\nThe Prime Nexus will burn in it..."
+    narrator "But they didn't put out the fire... they stoked it...\nCortex will burn in it..."
 
     narrator "TO BE CONTINUED..."
 
@@ -136,6 +136,6 @@ label good_ending_finale:
     scene bg black
     with longfade
 
-    narrator "Congratulations!\nYou've reached the end of Rowan's Trial, the first chapter of the Codex Chronicles.\nYou got the good ending! Good job!"
+    narrator "Congratulations!\nYou've reached the end of The Trial of Rowan Reed, the first chapter of the Codex Chronicles.\nYou got the good ending! Good job!"
 
     return
